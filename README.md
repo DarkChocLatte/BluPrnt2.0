@@ -4,17 +4,17 @@ We have created a webpage that dynamically creates UML diagrams based on input i
 
 ##How to Use the App
 
-*In the terminal, ```git clone https://github.com/JWKelly29/BluPrnt2.0.```
+- In the terminal, ```git clone https://github.com/JWKelly29/BluPrnt2.0.```
 
-*In the terminal, cd into ```BluPrnt2.0/```.
+- In the terminal, cd into ```BluPrnt2.0/```.
 
-*In the terminal ```open index.html```
+- In the terminal ```open index.html```
 
 #Technologies Used
 
-App uses - Javascript.
+- App uses - Javascript.
 
-*Ajax - used to manipulate the DOM without a complete page refresh.
+- Ajax - used to manipulate the DOM without a complete page refresh.
 
 #Challenges
 
